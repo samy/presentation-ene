@@ -232,7 +232,7 @@ a:focus {
     font-size: 50px;
     line-height: 72px;
 
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .slide q strong {
@@ -705,8 +705,11 @@ a:focus {
 
 /* OD69 */
 .slide .big {
-	font-size: 240%;
+	font-size: 235%;
     font-weight: bold;
+}
+.slide .big li {
+	padding-bottom:30px;
 }
 .slide .middle {
 	font-size:85%;
