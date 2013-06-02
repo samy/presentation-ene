@@ -704,6 +704,16 @@ a:focus {
 
 
 /* OD69 */
+.slide .big {
+	font-size: 240%;
+    font-weight: bold;
+}
 .slide .middle {
 	font-size:85%;
+}
+#logo_od69 {
+	bottom: 0;
+    position: absolute;
+    right: 0;
+    width: 500px;
 }
