@@ -720,3 +720,7 @@ a:focus {
     right: 0;
     width: 500px;
 }
+.notice {
+	text-align:right;
+	font-size:20%;
+}
